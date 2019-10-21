@@ -2,14 +2,10 @@
 layout: post
 title:  "первый пост"
 date:   2019-10-21
-excerpt: "эм,,,"
-project: true
+excerpt: "эм.."
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- sample
+- test
 comments: true
 ---
 
@@ -19,5 +15,4 @@ comments: true
 
 ###пфффффффффффффффф
 
----
 

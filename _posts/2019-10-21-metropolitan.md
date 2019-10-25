@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mитрополит - Metropolitan"
+title:  "Mитрополитан - Metropolitan"
 date:   2019-10-21
 excerpt: "да..выпить"
 tag:
@@ -8,12 +8,9 @@ tag:
 comments: true
 ---
 
-# Mитрополитан - Metropolitan:
-
 <center><img style="width:50%;height:auto" src="{{ site.url }}/assets/img/cocktails/manhattan.jpg"></center>
 
 <center><a href="https://www.flickr.com/people/32426344@N00"> Graeme Maclean </a> Glasgow, UK</center>
-
 
 ---
 
@@ -33,5 +30,3 @@ comments: true
 - мелкий сахар
 - кубики льда
 - ломтик лимона
-
----

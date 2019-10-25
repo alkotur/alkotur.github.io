@@ -8,7 +8,12 @@ tag:
 comments: true
 ---
 
-# Mитрополит - Metropolitan:
+# Mитрополитан - Metropolitan:
+
+<img style="width:40%;height:auto" src="{{ site.url }}/assets/img/cocktails/manhattan.jpg">
+
+<a href="https://www.flickr.com/people/32426344@N00"> Graeme Maclean </a> Glasgow, UK
+
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: около
-tags: [about]
+title: Oколо
+tags: [около]
 date: 2019-10-21
 comments: false
 ---

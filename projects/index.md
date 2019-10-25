@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Projects
-excerpt: "Projects"
+title: проект
+excerpt: "юуп"
 comments: false
 ---
